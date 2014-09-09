@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Revisores Metro BCN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="lineas">
+        <item>Línea L1</item>
+        <item>Línea L2</item>
+        <item>Línea L3</item>
+        <item>Línea L4</item>
+        <item>Línea L5</item>
+        <item>Línea L6</item>
+        <item>Línea L7</item>
+        <item>Línea L8</item>
+        <item>Línea L9</item>
+        <item>Línea L10</item>
+        <item>Línea L11</item>
+    </string-array>
+
+    <string-array name="linea1">
+        <item>Arc de Triomf</item>
+        <item>Av. Carrilet</item>
+        <item>Baró de Viver</item>
+        <item>Belvitge</item>
+        <item>Can Serra</item>
+        <item>Catalunya</item>
+        <item>Clot</item>
+        <item>Espanya</item>
+        <item>Fabra i Puíg</item>
+        <item>Florida</item>
+        <item>Fondo</item>
+        <item>Glories</item>
+        <item>Hospital de Bellvitge</item>
+        <item>Hostafrancs</item>
+        <item>Marína</item>
+        <item>Mercat Nou</item>
+        <item>Navas</item>
+        <item>Plaça de Sants</item>
+        <item>Rambla Just Oliveras</item>
+        <item>Rocafort</item>
+        <item>Sagrera</item>
+        <item>Sant Andreu</item>
+        <item>Santa Coloma</item>
+        <item>Santa Eulália</item>
+        <item>Torras i Bages</item>
+        <item>Torrassa</item>
+        <item>Trinitat Vella</item>
+        <item>Universitat</item>
+        <item>Urgel</item>
+        <item>Urquinaona</item>
+    </string-array>
+
+    <string-array name="linea2">
+        <item>Arígues | Sant Adrià</item>
+        <item>Bac de Roda</item>
+        <item>Badalona Pompeu Fabra</item>
+        <item>Clot</item>
+        <item>Encants</item>
+        <item>Gorg</item>
+        <item>La Pau</item>
+        <item>Monumental</item>
+        <item>Paral·lel</item>
+        <item>Passeig de Gràcia</item>
+        <item>Pep Ventura</item>
+        <item>Sagrada Familia</item>
+        <item>Sant Antoni</item>
+        <item>Sant Martí</item>
+        <item>Sant Roc</item>
+        <item>Tetuan Nou</item>
+        <item>Universitat</item>
+        <item>Vernada</item>
+    </string-array>
+
+    <string-array name="linea3">
+        <item>Canyelles</item>
+        <item>Catalunya</item>
+        <item>Diagonal</item>
+        <item>Drassenes</item>
+        <item>Espanya</item>
+        <item>Fontana</item>
+        <item>Les Corts</item>
+        <item>Lesseps</item>
+        <item>Liceu</item>
+        <item>María Cristina</item>
+        <item>Montbau</item>
+        <item>Mundet</item>
+        <item>Palau Reial</item>
+        <item>Paral·lel</item>
+        <item>Passeig de Gràcia</item>
+        <item>Penitents</item>
+        <item>Plaça de Sants</item>
+        <item>Poble Sec</item>
+        <item>Roquetes</item>
+        <item>Sants Estació</item>
+        <item>Tarragona</item>
+        <item>Trinitat Nova</item>
+        <item>Vall d\'Hebron</item>
+        <item>Vallcarca</item>
+        <item>Zona Universitària</item>
+    </string-array>
+
+    <string-array name="linea4">
+        <item>Alfons X</item>
+        <item>Barceloneta</item>
+        <item>Besòs</item>
+        <item>Besòs Mar</item>
+        <item>Bogatell</item>
+        <item>Ciudadella | Villa Olímpica</item>
+        <item>El Maresme | Fòrum</item>
+        <item>Girona</item>
+        <item>Guinardó</item>
+        <item>Jaume I</item>
+        <item>Joanic</item>
+        <item>La Pau</item>
+        <item>Llacuna</item>
+        <item>Llucmajor</item>
+        <item>Maragall</item>
+        <item>Passeig de Gràcia</item>
+        <item>Poblenou</item>
+        <item>Selva de Mar</item>
+        <item>Trinitat Nova</item>
+        <item>Urquinaona</item>
+        <item>Verdaguer</item>
+        <item>Vía Júlia</item>
+    </string-array>
+
+    <string-array name="linea5">
+        <item>Badal</item>
+        <item>Camp de l\'Arpa</item>
+        <item>Can Boixeres</item>
+        <item>Can Vidalet</item>
+        <item>Collblanc</item>
+        <item>Congrés</item>
+        <item>Cornellà Centre</item>
+        <item>Diagonal</item>
+        <item>El Carmel</item>
+        <item>Entença</item>
+        <item>Gavarra</item>
+        <item>Horta</item>
+        <item>Hospital Clínic</item>
+        <item>Hospital de Sant Pau</item>
+        <item>Sagrega</item>
+        <item>La Teixonera</item>
+        <item>Maragall</item>
+        <item>Plaça de Sants</item>
+        <item>Pubílla Cases</item>
+        <item>Sagrada Familia</item>
+        <item>Sant Ildefons</item>
+        <item>Sants Estació</item>
+        <item>Vall d\'Hebron</item>
+        <item>Verdaguer</item>
+        <item>Vilapicina</item>
+        <item>Virrei Amat</item>
+    </string-array>
+
+    <string-array name="linea6">
+        <item>Barcelona | Plaça Catalunya</item>
+        <item>Gràcia</item>
+        <item>La Bonanova</item>
+        <item>Les Tres Torres</item>
+        <item>Muntaner</item>
+        <item>Provença</item>
+        <item>Reina Elisenda</item>
+        <item>Sant Gervasi</item>
+        <item>Sarrià</item>
+    </string-array>
+
+    <string-array name="linea7">
+        <item>Barcelona | Plaça Catalunya</item>
+        <item>Provença</item>
+        <item>Gràcia</item>
+        <item>Plaça Molina</item>
+        <item>Pàdua</item>
+        <item>El Putxet</item>
+        <item>Avinguda Tibidabo</item>
+    </string-array>
+
+    <string-array name="linea8">
+        <item>Almeda</item>
+        <item>Barcelona | Plaça Espanya</item>
+        <item>Cornellà | Riera</item>
+        <item>Europa | Fira</item>
+        <item>Gornal</item>
+        <item>Ildefons Cerdà</item>
+        <item>L\'Hospitalet | Av. Carrilet</item>
+        <item>Magòria | La Campana</item>
+        <item>Molí Nou | Ciutat Cooperativa</item>
+        <item>Sant Boi</item>
+        <item>Sant Josep</item>
+    </string-array>
+
+    <string-array name="linea9">
+        <item>Bon Pastor</item>
+        <item>Can Peixauet</item>
+        <item>Can Zam</item>
+        <item>Església Major</item>
+        <item>Fondo</item>
+        <item>La Sagrera</item>
+        <item>Onze de Setembre</item>
+        <item>Santa Rosa</item>
+        <item>Singuerlín</item>
+    </string-array>
+
+    <string-array name="linea10">
+        <item>Bon Pastor</item>
+        <item>Gorg</item>
+        <item>La Sagrera</item>
+        <item>La Salut</item>
+        <item>Llefià</item>
+        <item>Onze de Setembre</item>
+    </string-array>
+
+    <string-array name="linea11">
+        <item>Can Cuiàs</item>
+        <item>Casa de l\'Aigua</item>
+        <item>Ciutat Meridiana</item>
+        <item>Torre Baró | Vallbona</item>
+        <item>Trinitat Nova</item>
+    </string-array>
+</resources>
